@@ -1,0 +1,14 @@
+{
+  "name": "my-vue-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^12.5.0",
+    "ora": "^8.2.0"
+  },
+  "bin": {
+    "vue-cli": "src/index.js"
+  }
+}
